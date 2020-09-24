@@ -7,4 +7,4 @@ Sub = a - b;
 Mult = a * b;
 Divi = a / b;
 
-system.out.println("10 + 13 = " + Add + "10 - 13 = " + Sub + "10 * 13 = " + Mult + "10 / 13 = " + Divi;
+system.out.println("10 + 13 = " + Add + "10 - 13 = " + Sub + "10 * 13 = " + Mult + "10 / 13 = " + Divi);
